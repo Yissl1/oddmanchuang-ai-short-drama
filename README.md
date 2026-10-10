@@ -55,6 +55,6 @@ Windows 桌面版基于 Electron，本地运行网页界面和 BFF。打包方�
 - [项目架构](docs/ARCHITECTURE.md)
 - [安全说明](SECURITY.md)
 
-## 来源与许可证
+## 许可说明
 
-本项目基于 XiakeMan777 的 `xiakeman-ai-short-drama` 修改。保留上游 `LICENSE` 和来源信息。本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE)；商业用途须取得版权方书面授权。
+本项目适用 [PolyForm Noncommercial License 1.0.0](LICENSE)。使用、修改和分发本项目时，请遵循仓库中的许可证条款；许可证未授予的权利须另行取得相应授权。
